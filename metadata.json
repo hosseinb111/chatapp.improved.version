@@ -1,0 +1,5 @@
+{
+  "name": "Free & Complicated Messenger",
+  "description": "A modern, real-time chat application with dark mode, message reactions, replies, and Supabase integration.",
+  "requestFramePermissions": []
+}
